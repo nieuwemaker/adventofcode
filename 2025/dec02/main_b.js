@@ -59,7 +59,6 @@ function main(){
         }
     }
     console.log(totalInvalidSum);
-    
 }
 
 main();
